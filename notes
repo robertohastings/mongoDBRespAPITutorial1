@@ -1,0 +1,7 @@
+-- node --version
+-- npm --version
+-- npm init
+-- npm i express
+-- create folder in root named: server.js
+-- npm i -D nodemon
+-- npm i mongoose
