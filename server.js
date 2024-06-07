@@ -8,7 +8,7 @@ app.use(express.json())
 
 const userRoutes = require("./routes/heroRoute")
 
-app.use("/", userRoutes)
+app.use("/api/", userRoutes)
 
 //Welcome to index
 app.get("/", (req, res) => {
